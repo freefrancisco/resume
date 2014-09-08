@@ -3,9 +3,9 @@
 
 
 ### SUMMARY OF SKILLS
-**Technologies:**  Coffeescript, Ruby, Ruby on Rails, Octave/Matlab, R, Python, Java, Javascript, C, C++, LISP, Scheme, PHP, Perl, SQL, CSS, HTML, XML, JQuery, MySQL, PostgressDB, SQLite, Git, Subversion, Capistrano, agile methodology, RSpec/BDD, Object Oriented programming.
+**Technologies:**  Ruby, Coffeescript, Ruby on Rails, Node, Meteor, R, Octave/Matlab, Julia, Python, Java, Javascript, C, C++, LISP, Scheme, SQL, CSS, HTML, XML, JQuery, MySQL, PostgressDB, SQLite, Git, Capistrano, agile methodology, RSpec/BDD, Functional and Object Oriented programming.
 
-**Specialties:** Back end game development, artificial intelligence, machine learning, pattern recognition, statistics, algorithms, mathematical and scientific software, genetic algorithms, neural networks.
+**Specialties:** Data science, back end, full stack, machine learning, statistics, pattern recognition, artificial intelligence,  algorithms, mathematical and scientific software, genetic algorithms, neural networks.
 
 
 ### EXPERIENCE
