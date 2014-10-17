@@ -1,5 +1,5 @@
 ## FRANCISCO  GUTIERREZ
-1241 Bush St Apt 203, San Francisco, CA 94109 • (302)566-5543 • freefrancisco@gmail.com
+1241 Bush St Apt 203, San Francisco, CA 94109 • freefrancisco@gmail.com
 
 
 ### SUMMARY OF SKILLS
