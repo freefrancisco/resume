@@ -1,4 +1,13 @@
 {exec} = require 'child_process'
+fs = require 'fs'
+
+extensions = [
+  "pdf"
+  "html"
+]
+
+option '-t', '--type [EXTENSION]', "type of file to generate #{extensions}, leave blank for pdf"
+option '-f', '--file [NAME]', "name of md file to generate for, leave blank for all"
 
 run = (string, opts={}) ->
   exec string, (err, stdout, stderr) ->
@@ -6,25 +15,22 @@ run = (string, opts={}) ->
     console.log stderr if stderr unless opts.silent
     console.log err if err unless opts.silent
 
-extensions = [
-  "pdf"
-  "html"
-]
+generate = (filename, filetype) ->
+  console.log "generating #{filename}.#{filetype}"
+  run "pandoc #{filename}.md -V geometry:margin=1in -s -o #{filename}.#{filetype}"
 
-option '-t', '--type [EXTENSION]', "type of file to generate #{extensions}"
+allFiles = (callback) ->
+  fs.readdir __dirname, (err, files) ->
+    console.log err if err
+    callback(f[0...-3]) for f in files when f[-3..-1] is '.md' and f isnt 'README.md'
 
+task 'generate', "generate files", (options) ->
+  options.type = 'pdf' unless options.type in extensions
+  if options.file
+    generate options.file, options.type
+  else
+    allFiles (file) -> generate file, options.type
 
-task 'generate', "generate a resume file type given by -t", (options) ->
-  type = options.type
-  switch
-    when type in extensions
-      run "pandoc resume.md -V geometry:margin=1in -s -o resume.#{type}"
-    when type? and type not in extensions
-      console.log "the only valid types after -t are [#{extensions.join(', ')}]"
-    else
-      console.log """usage: cake -t ext generate
-      where ext is any of [#{extensions.join(', ')}]"""
-
-task 'clean', "remove all generated resume files", ->
+task 'clean', "remove all generated files", ->
   # extensions = ["pdf", "html"]
-  run "rm resume.#{ext}", silent: true for ext in extensions
+  run "rm *.#{ext}", silent: true for ext in extensions
