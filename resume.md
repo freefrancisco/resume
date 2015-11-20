@@ -2,7 +2,7 @@
 1241 Bush St Apt 203, San Francisco, CA 94109 • freefrancisco@gmail.com
 
 ### SUMMARY
-**Profile:** Experienced software developer and data scientist with strong math background and machine learning experience.
+**Profile:** Experienced software developer and data scientist with strong math background. Knowledge and interest in machine learning and statistics.
 
 **Languages:** Python, Ruby, Coffeescript, R, Octave/Matlab, SQL, Julia, Javascript, Java, C, C++, LISP, Scheme.  
 
@@ -12,7 +12,7 @@
 
 
 ### EXPERIENCE
-#### Gumroad • *Risk Engineer, Data Scientist*  • Dec 2014 - Present
+#### Gumroad • *Risk Engineer, Data Scientist*  • Dec 2014 - Oct 2015
 * Developed features and machine learning models for internal risk scoring application written in Python.
 * Dual role as data scientist and software engineer.
 * Developed features for main Rails product.
