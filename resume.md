@@ -18,7 +18,7 @@
 * Developed features for main Rails product.
 * Technologies: Python, pandas, numpy, scikit-learn, Flask, ipython notebooks, Ruby, Ruby on Rails, Mongo, MySQL, EC2, Linux, OS X.
 
-#### Liquid Labs • *Co-founder, CTO*  • Oct 2012 - Oct 2013
+#### Liquid Labs (now Gigster) • *Co-founder, CTO*  • Oct 2012 - Oct 2013
 * Developed prototypes for all our business ideas. Main developer for the ideas that we decided to pursue, including a contact management tool, a collaborative consumption date coaching app, an online expert exchange, and a hobby VC investment game.
 * Worked with CEO on all business side activities including recruiting, business planning, presentations, demos, fundraising, etc.
 * Technologies: Coffeescript, Node, Meteor, Mongo, Javascript, WebRTC, Nginx, Rails, Linux, OSX.
