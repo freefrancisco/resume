@@ -13,8 +13,8 @@ Experienced engineer with 15+ years in backend systems, AI, and functional progr
 - Independent study in volatility, stochastic calculus, and financial engineering.
 
 ##### Miami Beach Labs, Founder, Apr 2024–Present
-- Early-stage R&D in AI powered web and mobile applications.
-- Developing iOS mobile prototypes using Swift and LLMs.
+- Early-stage R&D on AI-powered web and mobile applications.
+- Developing LLM-driven prototypes using Haskell, Python, Swift, and JavaScript.
 
 ##### Tontine Trust, Haskell Quantitative Engineer, Nov 2023–Apr 2024
 - Developed financial simulations and forecasting tools in Haskell for a novel retirement product.
@@ -36,7 +36,7 @@ Experienced engineer with 15+ years in backend systems, AI, and functional progr
 
 ### EDUCATION
 
-##### Caltech, B.S. (1) Engineering & Applied Science; (2) Economics, 1992–1996
+##### Caltech, B.S. Double Major in (1) Engineering & Applied Science and (2) Economics, 1992–1996
 - Double major with emphasis in applied math, physics, computer science, and quantitative finance.
 - Research: molecular dynamics in C (physics dept) and genetic algorithms in C++ (econ internship).
 
