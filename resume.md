@@ -3,7 +3,7 @@
 [freefrancisco@gmail.com](mailto:freefrancisco@gmail.com) • [linkedin.com/in/francisco](https://www.linkedin.com/in/francisco) • [github.com/freefrancisco](https://github.com/freefrancisco) • Miami Beach, FL
 
 ### SUMMARY
-AI systems engineer with 15+ years building backend systems, machine learning tools, and simulation platforms. Founder of Miami Beach Labs, developing experimental LLM-driven applications in Haskell, Python, Swift, and JavaScript.
+AI systems engineer with 15+ years building backend systems, machine learning tools, and simulation platforms. Background spanning machine learning, finance, probabilistic modeling, and functional programming. Founder of Miami Beach Labs, developing experimental LLM-driven systems and AI tools.
 
 
 ### RECENT EXPERIENCE
