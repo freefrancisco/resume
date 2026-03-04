@@ -3,18 +3,18 @@
 [freefrancisco@gmail.com](mailto:freefrancisco@gmail.com) • [linkedin.com/in/francisco](https://www.linkedin.com/in/francisco) • [github.com/freefrancisco](https://github.com/freefrancisco) • Miami Beach, FL
 
 ### SUMMARY
-Experienced engineer with 15+ years in backend systems, AI, and functional programming. Built production Haskell systems at Capital One, NFTYEA, and Tontine Trust, including simulation engines and actuarial models. Currently focused on options/futures trading and AI app prototyping in Python and Swift.
+AI systems engineer with 15+ years building backend systems, machine learning tools, and simulation platforms. Founder of Miami Beach Labs, developing LLM-driven applications and prototypes in Haskell, Python, Swift, and JavaScript.
 
 
 ### RECENT EXPERIENCE
 
-##### Independent Options Trading, Apr 2024–Present
-- Trading equities, futures, equity options, future options, and index options.
-- Independent study in volatility, stochastic calculus, and financial engineering.
+##### Miami Beach Labs, Founder, Jun 2025–Present
+- Building AI-native web and mobile applications using large language models.
+- Prototyping LLM systems in Haskell, Python, Swift, and JavaScript.
 
-##### Miami Beach Labs, Founder, Apr 2024–Present
-- Early-stage R&D on AI-powered web and mobile applications.
-- Developing LLM-driven prototypes using Haskell, Python, Swift, and JavaScript.
+##### Independent Options Trading, Apr 2024–Jun 2025
+- Traded equities, futures, equity options, future options, and index options.
+- Independent study in volatility, stochastic calculus, and financial engineering.
 
 ##### Tontine Trust, Haskell Quantitative Engineer, Nov 2023–Apr 2024
 - Developed financial simulations and forecasting tools in Haskell for a novel retirement product.
